@@ -15,7 +15,9 @@ Iveth Cocha
 * Herencia: Es el mecanismo por el cual una clase permite heredar las características (atributos y métodos) de otra clase. La herencia permite que se puedan definir nuevas clases basadas de unas ya existentes a fin de reutilizar el código, generando así una jerarquía de clases dentro de una aplicación<br>
 <br>
   ![img_1.png](img_1.png)<br>
-  ![img.png](img.png)<br>
+ <br>
+  ![image](https://github.com/DennisCatana/Pilares-de-POO/assets/117744033/0a126c67-8f7f-4325-8d66-c4ef6426b795)
+
 
 * Polimorfismo: Permite a los objetos de diferentes clases ser tratados como si fueran del mismo tipo. En otras palabras, un objeto puede tomar muchas formas o comportarse de diferentes maneras dependiendo del contexto en el que se utilice.
 ![img_2.png](img_2.png)<br>
