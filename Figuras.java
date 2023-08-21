@@ -30,7 +30,7 @@ public class Figuras {
         System.out.println("# de lados: " +getN_lados() );
 
     }
-
+    //metodos
     public void calcularPerimetro(){
         System.out.println("Para calcular el perimetro se necesita conocer la longitud de los lados y el numero de lados en el caso de los Poligonos");
     }
